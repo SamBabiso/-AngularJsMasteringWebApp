@@ -1,0 +1,9 @@
+C:\AngularJsMasteringWebApp\bin\AngularJsExample2.dll.config
+C:\AngularJsMasteringWebApp\bin\AngularJsExample2.dll
+C:\AngularJsMasteringWebApp\bin\AngularJsExample2.pdb
+C:\AngularJsMasteringWebApp\bin\AngularJsExample2.xml
+C:\AngularJsMasteringWebApp\obj\Debug\AngularJsExample2.Resources.resources
+C:\AngularJsMasteringWebApp\obj\Debug\MasteringWebApp.vbproj.GenerateResource.Cache
+C:\AngularJsMasteringWebApp\obj\Debug\AngularJsExample2.dll
+C:\AngularJsMasteringWebApp\obj\Debug\AngularJsExample2.xml
+C:\AngularJsMasteringWebApp\obj\Debug\AngularJsExample2.pdb
